@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name CX60-24S-UNIT)(type Legacy)(uri ${KIPRJMOD}/lib_sch/CX60-24S-UNIT.lib)(options "")(descr ""))
+  (lib (name CX90M-16P)(type Legacy)(uri ${KIPRJMOD}/lib_sch/CX90M-16P.lib)(options "")(descr ""))
+)
